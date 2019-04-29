@@ -25,3 +25,7 @@ $./exec.sh ../sample/t1.decaf
 $./exec.sh ../sample/t2.decaf
 $./exec.sh ../sample/t3.decaf
 $./exec.sh ../sample/t4.decaf
+
+I have passed all the cases on my machine. Please contact me, if you have any question.
+TEL: 3473483974
+Email: liuty10@gmail.com
