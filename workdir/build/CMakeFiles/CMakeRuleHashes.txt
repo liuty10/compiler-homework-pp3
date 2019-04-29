@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+38e907f01bc05b3c658cd977e1f89467 decaf/lex.cc
+3997879c665a386b98b770f327dab413 decaf/parse.cc

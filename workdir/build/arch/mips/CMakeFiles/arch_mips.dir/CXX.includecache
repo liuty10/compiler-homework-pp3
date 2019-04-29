@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/mips.cc
+stdarg.h
+-
+string.h
+-
+arch/mips/mips.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/arch/mips/mips.h
+
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/mips.h
+decaf/list.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/decaf/list.h
+arch/mips/tac.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/arch/mips/tac.h
+
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/tac.cc
+string.h
+-
+arch/mips/mips.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/arch/mips/mips.h
+arch/mips/tac.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/arch/mips/tac.h
+
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/tac.h
+decaf/list.h
+/home/lty/Documents/compiler-homework-pp3/src/arch/mips/decaf/list.h
+
+/home/lty/Documents/compiler-homework-pp3/src/decaf/list.h
+deque
+-
+decaf/utility.h
+/home/lty/Documents/compiler-homework-pp3/src/decaf/decaf/utility.h
+
+/home/lty/Documents/compiler-homework-pp3/src/decaf/utility.h
+stdlib.h
+-
+stdio.h
+-
+
