@@ -1,17 +1,13 @@
 Running Environment:
    I have changed a lot of code from pp2 to pp3. 
-
    You will need flex, bison, and cmake to test the project.
-
    If you do not have these three on your machine, please run the following command:
-
    $ sudo apt install flex
    $ sudo apt install bison
    $ sudo apt install cmake
 
-# compiler-homework-pp3
-USE build.sh and exec.sh to build and run the project. 
-Example: $ cd workdir How to build 
+How to compiler:
+$ cd workdir
 $ ./build.sh 
 
 How to Run: 
